@@ -1,7 +1,7 @@
 # CTF-Writeups
 All of the ctfs i have completed
 
-## Questions
+## PicoCTF
 
 <details>
 
