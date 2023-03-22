@@ -11,6 +11,7 @@ All of the ctfs i have completed
 |--------|------|
 |[GET aHEAD](./PicoCTF/Web%20Exploitation/GET%20aHEAD/GET%20aHEAD.md)|20|
 |[Cookies](./PicoCTF/Web%20Exploitation/Cookies/Cookies.md)|40|
+|[Insp3ct0r](./PicoCTF/Web%20Exploitation/Insp3ct0r/Insp3ct0r.md)|50|
 
 </details>
 
